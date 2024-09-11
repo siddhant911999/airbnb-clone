@@ -1,4 +1,4 @@
-node_modules
-.env
-.env.production
-.env.development
+api/node_modules
+client/node_modules
+api/.env
+client/.env
